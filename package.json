@@ -1,0 +1,23 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "Wes Bos JS Series",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TridentTrue/javascript30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TridentTrue/javascript30/issues"
+  },
+  "homepage": "https://github.com/TridentTrue/javascript30#readme"
+}
